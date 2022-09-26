@@ -3,3 +3,4 @@ Added a new line to the file.
 Someone else added a line.
 Here is this line.
 
+Added line 6 functionality.
