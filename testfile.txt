@@ -2,5 +2,5 @@ This is the new file.
 Added a new line to the file.
 Someone else added a line.
 Here is this line.
-
+Line 5 better functionality.
 Added line 6 functionality.
